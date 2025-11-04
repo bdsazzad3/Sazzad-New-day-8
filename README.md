@@ -2,10 +2,9 @@
 Day 8
 gug
 g
-yeye
+<
 g
 bu
-vlngi
-vi
-teg
-geg
+vl
+hs
+js
